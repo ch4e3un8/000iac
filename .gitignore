@@ -1,0 +1,4 @@
+inventort.ini
+*.pem
+*.key
+.vault_pass
